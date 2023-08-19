@@ -1,0 +1,4 @@
+[submodule "externalLib/mysql"]
+	path = externalLib/mysql
+	url = https://github.com/XMNXofficial/mysql
+	branch = win64
